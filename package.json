@@ -1,5 +1,5 @@
 {
-  "name": "neuralnetwork",
+  "name": "neuralnetworkjs",
   "version": "1.0.0",
   "description": "A neural network library",
   "main": "src/neuralnetwork.js",
