@@ -1,0 +1,25 @@
+{
+  "name": "neuralnetwork",
+  "version": "1.0.0",
+  "description": "A neural network library",
+  "main": "src/neuralnetwork.js",
+  "scripts": {
+    "test": "node test/test.js",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuttarealstep/neuralnetwork.git"
+  },
+  "keywords": [
+    "neuralnetwork",
+    "neural",
+    "network"
+  ],
+  "author": "Stefano Valenzano",
+  "license": "GPL-3.0+",
+  "devDependencies": {
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  }
+}
